@@ -14,6 +14,7 @@ Entry-by-email is a simple solution for providing access controlled websites for
 
 ## Why would I use this service?
 This service provides you with super-simple way you can control access to specified content, without the need for complicated applications. Good ways to use this service would be for example:
+
 1. Tiny intranet
 2. Personal blog
 3. Paid content
